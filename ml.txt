@@ -1,0 +1,21 @@
+==install==
+pip install  jupyter matplotlib numpy pandas scipy scikit-learn
+
+==start jupyter notebook===
+~/ml/bin/jupyter notebook
+
+kaggle.com
+
+openai
+
+gym api
+
+datacamp.com == 1,000 baht/month
+
+
+rkcosmos/deepcut ==> thai word cutting
+
+** Choose Feature **
+====================
+
+pytorch vs tensorflow
